@@ -1,0 +1,15 @@
+{
+  "name": "karanja7/wifi-billing",
+  "description": "WiFi Billing System with M-PESA Payment Integration",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": "^8.0"
+  },
+  "autoload": {
+    "files": [
+      "db_config.php",
+      "functions.php"
+    ]
+  }
+}
